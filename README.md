@@ -1,5 +1,10 @@
 ### Hi there 👋
+My name is Haneef Muhammad. I am a web developer with 2+ years of experience in developing performant web-pages, UI components for web applications and reusable components for style-guide as per web standards. I have of knowledge of technologies such as HTML, CSS, JavaScript, React and Next.js.
 
+Currently, I am pursuing Software Engieering technology at Centennial College.
+
+- 🔭 I’m currently working on the 2nd version of my portfolio, a pathology report generation application. 
+- 💬 Reach out to me if you have any interesting ideas to collobarate on.
 <!--
 **haneefmhmmd/haneefmhmmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
