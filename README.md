@@ -3,7 +3,6 @@ My name is Haneef Muhammad. I am a web developer with 2+ years of experience in 
 
 Currently, I am pursuing Software Engieering technology at Centennial College.
 
-- 🔭 I’m currently working on the 2nd version of my portfolio, and on a pathology report generation application. 
 - 💬 Reach out to me if you have any interesting ideas to collobarate on.
 <!--
 **haneefmhmmd/haneefmhmmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
