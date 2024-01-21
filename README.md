@@ -1,9 +1,4 @@
-### Hi there 👋
-My name is Haneef Muhammad. I am a web developer with 2+ years of experience in developing performant web-pages, UI components for web applications and reusable components for style-guide as per web standards. I have of knowledge of technologies such as HTML, CSS, JavaScript, React and Next.js.
 
-Currently, I am pursuing Software Engieering technology at Centennial College.
-
-- 💬 Reach out to me if you have any interesting ideas to collobarate on.
 <!--
 **haneefmhmmd/haneefmhmmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there! 👋
+
+I'm Haneef Muhammad, a web developer with 2+ years of experience crafting performant web pages, UI components, and reusable style guide components. Currently pursuing Software Engineering Technology at Centennial College.
+
+🚀 **Skills:** HTML, SCSS, JavaScript, Angular, Java, Spring Boot, React, Next.js.
+
+🌱 **Currently Working On:** Developing a restaurant reservation application.
+
+📚 **Education:** Studying Software Engineering Technology at Centennial College.
+
+💬 **Let's collaborate!** Reach out if you have any interesting ideas.
+
+👉 [Check out my restaurant reservation app project](https://github.com/orgs/DineHub-Restaurant-Reservation-App/repositories)
