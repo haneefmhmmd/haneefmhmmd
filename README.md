@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! 👋
+![github-header-image](https://github.com/haneefmhmmd/haneefmhmmd/assets/52352973/9c95de9b-593c-43dc-b6cd-4fed46688b94)
 
-I'm Haneef Muhammad, a web developer with 2+ years of experience crafting performant web pages, UI components, and reusable style guide components. Currently pursuing Software Engineering Technology at Centennial College.
+Web developer with 2+ years of experience crafting performant web pages, UI components, and reusable style guide components. Currently pursuing Software Engineering Technology at Centennial College.
 
 🚀 **Skills:** HTML, SCSS, JavaScript, Angular, Java, Spring Boot, React, Next.js.
 
@@ -25,4 +25,4 @@ I'm Haneef Muhammad, a web developer with 2+ years of experience crafting perfor
 
 💬 **Let's collaborate!** Reach out if you have any interesting ideas.
 
-👉 [Check out my restaurant reservation app project](https://github.com/orgs/DineHub-Restaurant-Reservation-App/repositories)
+👉 [Check out my web portfolio](https://haneefmhmmd.github.io/resume/)
